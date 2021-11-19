@@ -25,4 +25,5 @@ public class SysStudentPost {
     private String sp_obj;
     private String sp_admit;
     private String sp_readmit;
+    //student_post_id is very important
 }
